@@ -1,0 +1,21 @@
+2025-05-23 13:13:55,676 — INFO — Sensor drone_46b4_s91d8 started. Target = 127.0.0.1:5000
+2025-05-23 13:13:55,679 — INFO — Connected to drone at 127.0.0.1:5000
+2025-05-23 13:13:55,680 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 12.49, "humidity": 34.47, "pressure": 353.66, "altitude": 131.68, "motor_energies": [56, 85, 80, 10], "timestamp": "2025-05-23T10:13:55Z"}
+2025-05-23 13:13:57,682 — WARNING — Connection lost, retrying
+2025-05-23 13:13:57,708 — INFO — Connected to drone at 127.0.0.1:5000
+2025-05-23 13:13:57,708 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": -8.16, "humidity": 28.25, "pressure": 861.14, "altitude": 317.85, "motor_energies": [3, 29, 74, 92], "timestamp": "2025-05-23T10:13:57Z"}
+2025-05-23 13:13:59,710 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 40.37, "humidity": 47.16, "pressure": 1072.71, "altitude": 330.14, "motor_energies": [97, 54, 32, 0], "timestamp": "2025-05-23T10:13:59Z"}
+2025-05-23 13:14:01,712 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 41.15, "humidity": 17.05, "pressure": 967.34, "altitude": 193.52, "motor_energies": [59, 9, 58, 66], "timestamp": "2025-05-23T10:14:01Z"}
+2025-05-23 13:14:03,713 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 3.73, "humidity": 85.0, "pressure": 338.07, "altitude": 294.03, "motor_energies": [56, 2, 18, 1], "timestamp": "2025-05-23T10:14:03Z"}
+2025-05-23 13:14:05,714 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 19.2, "humidity": 69.93, "pressure": 483.19, "altitude": 143.32, "motor_energies": [51, 84, 99, 70], "timestamp": "2025-05-23T10:14:05Z"}
+2025-05-23 13:14:07,716 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 3.47, "humidity": 65.24, "pressure": 925.15, "altitude": 350.56, "motor_energies": [21, 10, 5, 19], "timestamp": "2025-05-23T10:14:07Z"}
+2025-05-23 13:14:09,718 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": -9.04, "humidity": 35.75, "pressure": 660.71, "altitude": 366.49, "motor_energies": [45, 100, 10, 17], "timestamp": "2025-05-23T10:14:09Z"}
+2025-05-23 13:14:11,719 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 5.78, "humidity": 59.91, "pressure": 892.42, "altitude": 43.35, "motor_energies": [75, 21, 71, 16], "timestamp": "2025-05-23T10:14:11Z"}
+2025-05-23 13:14:13,720 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 29.38, "humidity": 82.99, "pressure": 396.83, "altitude": 389.86, "motor_energies": [3, 24, 7, 45], "timestamp": "2025-05-23T10:14:13Z"}
+2025-05-23 13:14:15,721 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 49.31, "humidity": 42.09, "pressure": 977.2, "altitude": 327.15, "motor_energies": [97, 74, 57, 79], "timestamp": "2025-05-23T10:14:15Z"}
+2025-05-23 13:14:17,724 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 4.28, "humidity": 22.93, "pressure": 695.55, "altitude": 268.76, "motor_energies": [89, 55, 87, 78], "timestamp": "2025-05-23T10:14:17Z"}
+2025-05-23 13:14:19,725 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 45.69, "humidity": 44.92, "pressure": 564.17, "altitude": 163.1, "motor_energies": [63, 85, 64, 28], "timestamp": "2025-05-23T10:14:19Z"}
+2025-05-23 13:14:21,726 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 18.17, "humidity": 77.87, "pressure": 459.81, "altitude": 41.43, "motor_energies": [38, 31, 72, 29], "timestamp": "2025-05-23T10:14:21Z"}
+2025-05-23 13:14:23,727 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 11.71, "humidity": 62.69, "pressure": 594.09, "altitude": 414.89, "motor_energies": [13, 14, 68, 26], "timestamp": "2025-05-23T10:14:23Z"}
+2025-05-23 13:14:25,735 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 59.91, "humidity": 83.07, "pressure": 353.79, "altitude": 33.47, "motor_energies": [46, 12, 43, 10], "timestamp": "2025-05-23T10:14:25Z"}
+2025-05-23 13:14:27,735 — INFO — Sent data: {"sensor_id": "drone_46b4_s91d8", "temperature": 36.51, "humidity": 40.1, "pressure": 988.1, "altitude": 10.89, "motor_energies": [14, 70, 5, 28], "timestamp": "2025-05-23T10:14:27Z"}

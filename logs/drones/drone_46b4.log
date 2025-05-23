@@ -1,0 +1,38 @@
+2025-05-23 13:13:57,712 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:13:57Z
+2025-05-23 13:13:57,833 — INFO — Reading accepted from drone_46b4_s548c at 2025-05-23T10:13:57Z
+2025-05-23 13:13:59,711 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:13:59Z
+2025-05-23 13:13:59,834 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 48.53}, {"type": "altitude_discrepancy", "range": 311.46000000000004}]
+2025-05-23 13:14:00,780 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:01,713 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:01Z
+2025-05-23 13:14:01,835 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 21.24}, {"type": "altitude_discrepancy", "range": 258.96}]
+2025-05-23 13:14:03,714 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:03Z
+2025-05-23 13:14:03,836 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 37.42}, {"type": "altitude_discrepancy", "range": 234.49}]
+2025-05-23 13:14:04,825 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:05,715 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:05Z
+2025-05-23 13:14:05,837 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 41.44}, {"type": "altitude_discrepancy", "range": 188.65000000000003}]
+2025-05-23 13:14:07,718 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:07Z
+2025-05-23 13:14:07,838 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 28.18}, {"type": "altitude_discrepancy", "range": 207.24}]
+2025-05-23 13:14:08,864 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:09,719 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:09Z
+2025-05-23 13:14:09,839 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 14.739999999999998}, {"type": "altitude_discrepancy", "range": 263.48}]
+2025-05-23 13:14:11,720 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:11Z
+2025-05-23 13:14:11,839 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 14.82}, {"type": "altitude_discrepancy", "range": 357.15}]
+2025-05-23 13:14:12,892 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:13,722 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:13Z
+2025-05-23 13:14:13,841 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 31.419999999999998}, {"type": "altitude_discrepancy", "range": 357.15}]
+2025-05-23 13:14:15,723 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:15Z
+2025-05-23 13:14:15,842 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 44.879999999999995}, {"type": "altitude_discrepancy", "range": 354.6}]
+2025-05-23 13:14:16,930 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:17,725 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:17Z
+2025-05-23 13:14:17,843 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 55.269999999999996}, {"type": "altitude_discrepancy", "range": 291.89}]
+2025-05-23 13:14:19,727 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:19Z
+2025-05-23 13:14:19,844 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 50.96}, {"type": "altitude_discrepancy", "range": 239.01000000000002}]
+2025-05-23 13:14:20,970 — ERROR — Error sending to central: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-05-23 13:14:21,727 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:21Z
+2025-05-23 13:14:21,844 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 31.75}, {"type": "altitude_discrepancy", "range": 299.67}]
+2025-05-23 13:14:23,727 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:23Z
+2025-05-23 13:14:23,847 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 48.57}, {"type": "altitude_discrepancy", "range": 373.46}]
+2025-05-23 13:14:25,735 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:25Z
+2025-05-23 13:14:25,847 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 62.129999999999995}, {"type": "altitude_discrepancy", "range": 381.41999999999996}]
+2025-05-23 13:14:27,736 — INFO — Reading accepted from drone_46b4_s91d8 at 2025-05-23T10:14:27Z
+2025-05-23 13:14:27,848 — WARNING — Anomalies detected: [{"type": "temperature_discrepancy", "range": 29.989999999999995}, {"type": "altitude_discrepancy", "range": 361.26000000000005}]
